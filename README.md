@@ -25,13 +25,7 @@ Cálcula todas as métricas, sendo necessário arquivo input.txt<br/>
 Para compilar:<br/>
 gcc sequecial_mestatisticas.c -o sequecial_mestatisticas -lm<br/>
 
-## sequencial_mestatisticas_otimizado.c (studentsseq.c descrito no pdf)
-Cálcula todas as métricas,otimizando as funcões maior,menor e medianda, em uma função só.<br/>
-Sendo necessário arquivo input.txt<br/>
-Para compilar:<br/>
-gcc sequecial_mestatisticas_otimizado.c -o sequecial_mestatisticas -lm<br/>
-
-## parallel_mestatisticas_otimizado_openmp.c (studentspar.c no pdf)
+## parallel_mestatisticas_openmp.c (studentspar.c no pdf)
 Transforma o arquivo sequencial_mestatisticas_otimizado.c em paralelo, utilizando as diretivas de openMP<br/>
 Sendo necessário arquivo input.txt<br/>
 Para compilar:<br/>
