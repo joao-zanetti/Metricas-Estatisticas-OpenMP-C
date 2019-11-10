@@ -16,7 +16,7 @@ Matriz é criada como apenas um vetor, para otimização de acesso à memória.
 -Retorna desvio padrão da matriz<br/>
 
 ## sequencial_mestatisticas_test.c
-Cálcula todas as métricas com o exemplo do pdf do exercício como teste. (alocando a matriz exemplo estaticamente)
+Cálcula todas as métricas com o exemplo do pdf do exercício como teste. (alocando a matriz exemplo estaticamente)<br/>
 Para compilar:<br/>
 gcc sequecial_mestatisticas_test.c -o sequecial_mestatisticas_test -lm
 
