@@ -1,4 +1,4 @@
-# Exercício calcula métricas estatísticas em C. Sequencial e paralelo (OpenMP) 
+# Exercício calcula métricas estatísticas em C. Código Sequencial e paralelo (OpenMP) 
 
 ## Descrição do exercício 
 Desenvolver código que cálcula métricas estatísticas sequencial e em seguida transforma-lo em paralelo utilizando diretivas de openmp.<br/>
