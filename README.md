@@ -1,8 +1,8 @@
 # Exercício calcula métricas estatísticas em C
 
 ## Descrição do exercício 
-Desenvolver código que cálcula métricas estatísticas sequencial e em seguida transforma-lo em paralelo utilizando diretivas de openmp.br/>
-matriz_dados_metricasestatisticas.pdf no repositório com descrição de entrada e saída esperada.
+Desenvolver código que cálcula métricas estatísticas sequencial e em seguida transforma-lo em paralelo utilizando diretivas de openmp.<br/>
+calculometricasestatisticas.pdf no repositório com descrição de entrada e saída esperada.
 
 ## Detalhes
 Matriz é criada como apenas um vetor, para otimização de acesso à memória.
