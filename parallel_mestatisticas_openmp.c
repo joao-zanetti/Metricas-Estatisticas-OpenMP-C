@@ -1,5 +1,5 @@
 /*
-    Devolep by João Zanetti
+    Developed by João Zanetti
     https://github.com/joao-zanetti
 */
 
