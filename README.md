@@ -16,14 +16,9 @@ Matriz é criada como apenas um vetor, para otimização de acesso à memória.
 -Retorna desvio padrão da matriz<br/>
 
 ## sequencial_mestatisticas_test.c
-Cálcula todas as métricas com o exemplo do pdf do exercício como teste.
+Cálcula todas as métricas com o exemplo do pdf do exercício como teste. (alocando a matriz exemplo estaticamente)
 Para compilar:<br/>
 gcc sequecial_mestatisticas_test.c -o sequecial_mestatisticas_test -lm
-
-## sequencial_mestatisticas.c
-Cálcula todas as métricas, sendo necessário arquivo input.txt<br/>
-Para compilar:<br/>
-gcc sequecial_mestatisticas.c -o sequecial_mestatisticas -lm<br/>
 
 ## parallel_mestatisticas_openmp.c (studentspar.c no pdf)
 Transforma o arquivo sequencial_mestatisticas_otimizado.c em paralelo, utilizando as diretivas de openMP<br/>
